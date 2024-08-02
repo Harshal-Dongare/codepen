@@ -1,7 +1,5 @@
 ![logo](https://github.com/user-attachments/assets/0de33d44-9a71-4e23-a0b9-d061ed77f525)
 
-# CodePen-like Web Application
-
 ## Overview
 
 This project is a web application offering a sign-in facility with options for GitHub, Google, or traditional username and password authentication. Once signed in, users can write and preview HTML, CSS, and JavaScript code in real-time. The application also allows users to save their projects for later use and explore and search through other people's projects.
